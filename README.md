@@ -80,17 +80,7 @@ The app can **generate synthetic transaction data** if the dataset is not presen
 <img width="1219" height="260" alt="image" src="https://github.com/user-attachments/assets/8ca622b5-d96f-4d60-86eb-550aad99f998" />
 
 ## project structure
-realtime-fraud-rf/
-│
-├── app.py # Main Streamlit application
-├── train_model.py # Model training script
-├── rf_model.pkl # Trained RandomForest model
-├── scaler.pkl # Feature scaler
-├── metrics.json # Model evaluation metrics
-├── realtime_fraud.db # SQLite database storing transactions
-├── requirements.txt # Required Python packages
-├── run_windows.bat # Batch script to run app on Windows
-├── sample_data.csv # Optional sample data for testing
-└── .gitignore # Git ignore file
+
+
 
 
