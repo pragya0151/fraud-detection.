@@ -80,6 +80,8 @@ The app can **generate synthetic transaction data** if the dataset is not presen
 <img width="1219" height="260" alt="image" src="https://github.com/user-attachments/assets/8ca622b5-d96f-4d60-86eb-550aad99f998" />
 
 ## project structure
+<img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/c62d7021-be96-468f-aac1-abd8ad119b8c" />
+
 
 
 
