@@ -102,7 +102,9 @@ In production, additional features like **deep learning, graph-based fraud detec
    - Metrics (Precision, Recall, F1, ROC-AUC) for RandomForest & XGBoost.  
    - ROC curve visualization.
    - <img width="1853" height="747" alt="image" src="https://github.com/user-attachments/assets/8a534ae5-7cb6-4cd8-8bd0-da0c6610f34a" />
-   <img width="1330" height="876" alt="image" src="https://github.com/user-attachments/assets/b5c1f816-d4d3-4d21-bf26-d7a3be3a8b68" />
+   -<img width="1330" height="876" alt="image" src="https://github.com/user-attachments/assets/b5c1f816-d4d3-4d21-bf26-d7a3be3a8b68" />
+   -<img width="1199" height="862" alt="image" src="https://github.com/user-attachments/assets/9de811a2-6fe6-4c28-8b1b-82b6b062da43" />
+
 
 
 
