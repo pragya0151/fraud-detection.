@@ -116,15 +116,14 @@ In production, additional features like **deep learning, graph-based fraud detec
 
 
      
-5. **choose between both model to see for yourself**
-   -<img width="509" height="252" alt="image" src="https://github.com/user-attachments/assets/ebaf6a12-4dff-4da7-a94b-22eb89c16b3e" />
-   
-   
-6.**about website and faq section**
-    - <img width="429" height="924" alt="image" src="https://github.com/user-attachments/assets/b592b9d1-5f11-44a6-ab83-c115adc4c57b" />
+5. **Choose Between Both Models** (RandomForest vs XGBoost)  
+   - Switch models and compare results in real-time.  
+   <img width="509" height="252" alt="image" src="https://github.com/user-attachments/assets/ebaf6a12-4dff-4da7-a94b-22eb89c16b3e" />  
 
-    
-    -<img width="368" height="846" alt="image" src="https://github.com/user-attachments/assets/7547d8f3-c26d-472b-8ae1-65acec696fdd" />
+6. **About Website & FAQ Section**  
+   - Sidebar with project description and common questions.  
+   <img width="429" height="924" alt="image" src="https://github.com/user-attachments/assets/b592b9d1-5f11-44a6-ab83-c115adc4c57b" />  
+   <img width="368" height="846" alt="image" src="https://github.com/user-attachments/assets/7547d8f3-c26d-472b-8ae1-65acec696fdd" />  
 
 
 
