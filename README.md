@@ -147,7 +147,8 @@ If not available, the app **auto-generates synthetic transactions** so you can s
 ---
 
 ##  Project Structure
-<img width="602" height="592" alt="image" src="https://github.com/user-attachments/assets/8aa9f0e7-cdf8-402e-b1a9-32ab4bd2c269" />
+<img width="367" height="435" alt="image" src="https://github.com/user-attachments/assets/9b89c6b0-3f6e-4086-ab86-aab7826df67e" />
+
 
 
 
